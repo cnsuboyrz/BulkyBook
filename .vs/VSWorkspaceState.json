@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BulkyBook",
+    "\\BulkyBookWeb",
+    "\\BulkyBookWeb\\Controllers",
+    "\\BulkyBookWeb\\Data",
+    "\\BulkyBookWeb\\Models",
+    "\\BulkyBookWeb\\Views",
+    "\\BulkyBookWeb\\Views\\Category",
+    "\\BulkyBookWeb\\Views\\Shared"
+  ],
+  "SelectedNode": "\\BulkyBook.sln",
+  "PreviewInSolutionExplorer": false
+}
